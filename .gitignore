@@ -1,0 +1,5 @@
+terminal
+*.o
+*.expand
+*.svg
+*.py
